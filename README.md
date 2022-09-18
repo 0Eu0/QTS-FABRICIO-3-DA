@@ -9,6 +9,7 @@ BDD https://www.dtidigital.com.br/blog/bdd-como-metodologia-agil/
 
 
 ================================================================================================================================
+
 Funcionalidade: Registro
  - Como um usuário do site SP SUBMERSO
  - O usuário quer realizar a função de cadastro 
