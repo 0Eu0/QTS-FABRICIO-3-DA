@@ -11,6 +11,7 @@ BDD no TCC - SP SUBMERSO
 ================================================================================================================================
 
 Funcionalidade: Registro
+-
  - Como um usuário do site SP SUBMERSO
  - O usuário quer realizar a função de cadastro 
  - Para que ele possua uma conta e tenha acesso às funcionalidades do site, exclusivas para usuários logados
