@@ -117,6 +117,7 @@ Cenário: Alteração de E-mail com um e-mail já cadastrado no sistema
 ================================================================================================================================
 
 Funcionalidade: Alterar Senha
+-
 - Como um usuário do site SP SUBMERSO
 - O usuário quer realizar a função de alterar senha
 - Para que ele consiga alterar a senha atual cadastrada no sistema
